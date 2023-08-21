@@ -11,7 +11,7 @@ Welcome to the "Guess the Number" game repository! This simple yet classic game 
 
 ## Installation
 
-**Easiest way** : Download the lastest executable file name "GuessTheNumberX.X", then launch the file.
+**Easiest way** : Download the zip folder name "GuessTheNumber", extract all, then launch the file "GuessTheNumberX.X". You can create a shortcut for a faster access.
 
 **other way** : Install [Python](https://www.python.org/downloads/), download the repository "rep_GuessTheNumberX.X", then launch the file "main.py" with python.
 
