@@ -202,7 +202,7 @@ class Window:
         self.popup_error("Incorrect Inputs")
     
     def popup_error(self, text:str):
-        popup = tk.Toplevel(bg="#333333")
+        popup = tk.Toplevel(self.root, bg="#333333")
         popup.title("Error Input")
 
         label = tk.Label(popup, text=text, font=("Helvetica",30), fg="#AA0000",bg="#333333")
