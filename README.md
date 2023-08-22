@@ -28,7 +28,7 @@ When you run the game, a window will appear with the following options:
 
 ## Contributing
 
-Icon create by [Roundicons](https://www.flaticon.com/fr/auteurs/roundicons) - Flaticon
+Icon created by [Roundicons](https://www.flaticon.com/fr/auteurs/roundicons) - Flaticon
 
 Contributions to this project are welcome! Whether it's bug fixes, feature enhancements, or UI improvements, your contributions will make the game even better.
 
